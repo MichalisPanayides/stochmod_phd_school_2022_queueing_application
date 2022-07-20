@@ -1,0 +1,8 @@
+name: stochmod
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.23
+  - matplotlib=3.5.2
+prefix: C:\Users\c1400990\anaconda3\envs\stochmod
